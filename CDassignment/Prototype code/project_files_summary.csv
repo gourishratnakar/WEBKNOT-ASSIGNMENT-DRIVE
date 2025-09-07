@@ -1,0 +1,14 @@
+File,Purpose,Description
+app.py,Main Application,Complete Flask backend with all APIs and database models
+requirements.txt,Dependencies,Python packages needed to run the application
+init_db.py,Database Setup,Script to initialize database with sample data
+test_api.py,API Testing,Comprehensive test script demonstrating all functionality
+README.md,Documentation,Comprehensive project documentation written personally
+DESIGN_DOCUMENT.md,System Design,Complete system design with architecture and workflows
+AI_CONVERSATION_LOG.md,AI Documentation,Record of AI conversation and development process
+campus_events.db,Database File,SQLite database with sample data and complete schema
+sample_api_responses.json,API Examples,Sample API responses showing output format
+project_files_summary.csv,File Overview,Summary of all project files and their purposes
+HOW_TO_START.md,Setup Guide,Step-by-step instructions to run the backend
+WHERE_TO_RUN_COMMANDS.md,Terminal Help,Guide for finding and navigating to project folder
+SUBMISSION_PACKAGE.md,Submission Info,Complete package documentation for submission

@@ -1,0 +1,73 @@
+{
+  "event_popularity_report": {
+    "reports": [
+      {
+        "event_id": 5,
+        "title": "Annual Tech Fest",
+        "event_type": "Fest",
+        "date": "2024-11-01",
+        "college_id": 3,
+        "college_name": "IIT Delhi",
+        "total_registrations": 6,
+        "total_attendance": 5,
+        "attendance_percentage": 83.33,
+        "average_feedback": 4.6
+      },
+      {
+        "event_id": 2,
+        "title": "Hackathon 2024",
+        "event_type": "Hackathon",
+        "date": "2024-10-20",
+        "college_id": 1,
+        "college_name": "MIT Institute of Technology",
+        "total_registrations": 5,
+        "total_attendance": 4,
+        "attendance_percentage": 80.0,
+        "average_feedback": 4.25
+      }
+    ],
+    "summary": {
+      "total_events": 7,
+      "total_registrations": 29,
+      "total_attendance": 23,
+      "overall_attendance_rate": 79.31
+    }
+  },
+  "top_students_report": {
+    "top_students": [
+      {
+        "rank": 1,
+        "student_id": 1,
+        "name": "Alice Johnson",
+        "student_number": "MIT001",
+        "college_id": 1,
+        "college_name": "MIT Institute of Technology",
+        "total_registrations": 5,
+        "total_attendance": 4,
+        "attendance_percentage": 80.0
+      },
+      {
+        "rank": 2,
+        "student_id": 5,
+        "name": "Emma Davis",
+        "student_number": "STAN001",
+        "college_id": 2,
+        "college_name": "Stanford University",
+        "total_registrations": 4,
+        "total_attendance": 3,
+        "attendance_percentage": 75.0
+      },
+      {
+        "rank": 3,
+        "student_id": 8,
+        "name": "Henry Taylor",
+        "student_number": "IITD001",
+        "college_id": 3,
+        "college_name": "IIT Delhi",
+        "total_registrations": 3,
+        "total_attendance": 3,
+        "attendance_percentage": 100.0
+      }
+    ]
+  }
+}
